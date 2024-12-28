@@ -1,0 +1,85 @@
+{
+  "featured": [
+    {
+      "name": "Home Assistant",
+      "link": "http://google.com/",
+      "background": "/assets/Card-Home-Assistant-no-text.png",
+      "tags": ""
+    },
+    {
+      "name": "Shinobi CCTV",
+      "link": "http://google.com/",
+      "background": "/assets/Card-Shinobi-CCTV-no-text.png",
+      "tags": ""
+    },
+    {
+      "name": "Doorbell Camera",
+      "link": "http://google.com/",
+      "background": "/assets/Card-Camera-no-text.png",
+      "tags": ""
+    },
+    {
+      "name": "Front Camera",
+      "link": "http://google.com/",
+      "background": "/assets/Card-Camera-no-text.png",
+      "tags": ""
+    }
+  ],
+  "categories": [
+    {
+      "title": "Cameras",
+      "links": [
+        {
+          "name": "Doorbell Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        },
+        {
+          "name": "Front Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        },
+        {
+          "name": "Rear Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        },
+        {
+          "name": "Left Side Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        },
+        {
+          "name": "Right Side Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        },
+        {
+          "name": "WiFi Camera",
+          "link": "http://google.com/",
+          "tags": ""
+        }
+      ]
+    },
+    {
+      "title": "System Apps",
+      "links": [
+        {
+          "name": "IP Cam Viewer Pro",
+          "link": "intent:#Intent;launchFlags=0x10000000;component=com.rcreations.WebCamViewerPaid/com.rcreations.WebCamViewerPaid.IpCamViewerActivity;end",
+          "tags": ""
+        },
+        {
+          "name": "Calculator",
+          "link": "intent:#Intent;launchFlags=0x10000000;component=com.android.calculator2/com.android.calculator2.Calculator;end",
+          "tags": ""
+        },
+        {
+          "name": "Clock",
+          "link": "intent:#Intent;launchFlags=0x10000000;component=com.android.deskclock/com.android.deskclock.DeskClock;end",
+          "tags": ""
+        }
+      ]
+    }
+  ]
+}
